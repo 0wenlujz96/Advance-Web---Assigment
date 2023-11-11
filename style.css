@@ -1,0 +1,29 @@
+.myHeader {
+    background-color: #001b29;
+    padding-top: 5px;
+}
+.myMenu{
+    background-image: linear-gradient(0, #000, #001b29);
+    
+}
+.navbar{
+    background-image: linear-gradient(0, #000, #001b29);
+    
+}
+.whatnew{
+    display: block;
+    text-align: center;
+}
+strong{
+    padding-top: 30px;
+}
+.Loginbg{
+    background-image: linear-gradient(0, #000, #001b29);
+}
+.boxLogin{
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 400px;
+    background-image: linear-gradient(0, #000, #001b29);
+}
